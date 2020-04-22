@@ -8,4 +8,4 @@ The data will be updated to reflect new measures but also to track measures that
 Name | Organization | Email | Twitter
 --- | --- | --- | ---
 Charles Breton | Centre of Excellence on the Canadian Federation - IRPP | cbreton@irpp.org | @charlesbreton
-Mohy-Dean Tabbara | Institute for Research on Public Policy | mtabbara@irpp.org@irpp.org | |
+Mohy-Dean Tabbara | Institute for Research on Public Policy | mtabbara@irpp.org | |
