@@ -15,3 +15,7 @@ Name | Organization | Email | Twitter
 --- | --- | --- | ---
 Charles Breton | Centre of Excellence on the Canadian Federation - IRPP | cbreton@irpp.org | @charlesbreton
 Mohy-Dean Tabbara | Institute for Research on Public Policy | mtabbara@irpp.org | |
+
+# Suggested citation
+
+Breton, Charles and Mohy-Dean Tabbara. 2020. _COVID-19 Canadian Provinces Measures Dataset_. Center of Excellence on the Canadian Federation. Available at [github.com/charlesbreton/COVID19-Canada-Provinces](https://github.com/charlesbreton/COVID19-Canada-Provinces)																						
