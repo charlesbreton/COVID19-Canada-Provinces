@@ -1,3 +1,5 @@
+# Canadian Provinces COVID-19 response: Stringency index and measures
+
 The COVID-19 Stringency Index captures the level of policy restrictions that individuals are living with across Canada and when policy measures were taken. 
 
 The Index is calculated based on twelve different measures enacted by provincial and territorial governments such as gathering sizes, facial coverings, school closures, and travel restrictions. 
