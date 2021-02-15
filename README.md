@@ -1,21 +1,28 @@
-# COVID-19 Canadian Provinces Measures
+The COVID-19 Stringency Index captures the level of policy restrictions that individuals are living with across Canada and when policy measures were taken. 
 
-Provincial measures in response to the COVID-19 pandemic. The data we collected is focused on measures enacted to counter the propagation of COVID-19 (social distanciation, fines, etc.). We based this data collection on [work done in the U.S.](https://docs.google.com/spreadsheets/d/1zu9qEWI8PsOI_i8nI_S29HDGHlIp2lfVMsGxpQ5tvAQ/edit#gid=0) to allow cross-country comparisons.
+The Index is calculated based on twelve different measures enacted by provincial and territorial governments such as gathering sizes, facial coverings, school closures, and travel restrictions. 
 
-Please note that the data only tracks the date at which a policy became effective, not when it was announced. When a policy is enacted at midnight, the following day is indicated. For Ontario, Nova Scotia and Prince Edward Island, we have treated March 16, the first day of March Break, as the day that school closures took effect even though they were formally applied on March 23, the day students were supposed to return from the break. We also only account for orders and official directives from provinces not suggestions.
+Measures capture the most restrictive policy in place at a given time and are flagged to indicate if a policy applies province-wide. Descriptions of what we measure can be found in our [codebook](https://centre.irpp.org/2020/12/government-covid-19-policies-codebook/). 
 
-The data will be updated to reflect new measures but also to track measures that have been lifted. We are in the process of adding the territories and sources.  
+This is a project of the [Centre of Excellence on the Canadian Federation]( https://centre.irpp.org/) at the [Institute for Research on Public Policy](http://www.irpp.org) (IRPP), a Montreal-based think tank. Our team developed a complimentary set of indicators for the work of [Oxford University’s COVID-19 Government Response Tracker](https://covidtracker.bsg.ox.ac.uk/). 
 
-You can also [look at the data on Google Sheets](https://docs.google.com/spreadsheets/d/11QKjG4urlLSEfM6YOjJm0dpwUVde3cv9iXxawsodw70/edit?usp=sharing)
+The intended use of this database is to model Canadian policy responses over time and support new scholarship and policy evaluation. You can read more about how relative stringency has varied in our original [Policy Options article]( https://policyoptions.irpp.org/magazines/november-2020/in-the-canadian-federation-pandemic-response-is-hyper-local/), published on November 27th, 2020.
 
 Comments and corrections are welcome. 
+
+# Suggested Citation
+Breton, Charles, Paisley Sim, and Mohy-Dean Tabbara. 2020. _COVID-19 Canadian Provinces Measures Dataset_. Center of Excellence on the Canadian Federation. Available at [github.com/charlesbreton/COVID19-Canada-Provinces](https://github.com/charlesbreton/COVID19-Canada-Provinces) 
+
+# COVID-19 Re-opening Indicators
+Between March and September 2020, the [Centre of Excellence on the Canadian Federation](https://centre.irpp.org/) tracked Canadian policy responses to the COVID-19 pandemic with a specific focus on the timing of public health measures. The re-opening indicators dataset captures when provincial measures were taken or revoked. We based this data collection on [work done in the U.S.]( https://docs.google.com/spreadsheets/d/1zu9qEWI8PsOI_i8nI_S29HDGHlIp2lfVMsGxpQ5tvAQ/edit#gid=0) to allow cross-country comparisons. 
+
+The data only tracks the date at which a policy became effective, not when it was announced. When a policy is enacted at midnight, the following day is indicated. We also only account for orders and official directives from provinces not suggestions. You can read more on this COVID provincial re-opening indicators in our original [Policy Options article](https://policyoptions.irpp.org/magazines/april-2020/how-the-provinces-compare-in-their-covid-19-responses/), published on April 22nd, 2020. 
 
 # Contributors
 Name | Organization | Email | Twitter
 --- | --- | --- | ---
 Charles Breton | Centre of Excellence on the Canadian Federation - IRPP | cbreton@irpp.org | @charlesbreton
+Paisley Sim | Centre of Excellence on the Canadian Federation - IRPP | psim@irpp.org | @paisleyvsim
 Mohy-Dean Tabbara | Institute for Research on Public Policy | mtabbara@irpp.org | |
 
-# Suggested citation
 
-Breton, Charles, Paisley Sim, and Mohy-Dean Tabbara. 2020. _COVID-19 Canadian Provinces Measures Dataset_. Center of Excellence on the Canadian Federation. Available at [github.com/charlesbreton/COVID19-Canada-Provinces](https://github.com/charlesbreton/COVID19-Canada-Provinces)																						
