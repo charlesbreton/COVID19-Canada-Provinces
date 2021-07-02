@@ -6,6 +6,13 @@ The Index is calculated based on twelve different measures enacted by provincial
 
 Measures capture the most restrictive policy in place at a given time and are flagged to indicate if a policy applies province-wide. Descriptions of what we measure can be found in our [codebook](https://centre.irpp.org/2020/12/government-covid-19-policies-codebook/). 
 
+# Important update
+Our codebook was updated on June 29, 2021 to provide a more nuanced evaluation of measures for gatherings (S1) and dining & restaurants (S6). The "Gatherings" indicator now includes seven categories instead of five and the "dining & restaurants" indicator as one additional category.
+
+Data is updated weekly and going forward will follow the new codebook. Legacy data following the old codebook is current as to June 28, 2021 and can be downloaded below but will not be updated going forward.
+
+# Background
+
 This is a project of the [Centre of Excellence on the Canadian Federation]( https://centre.irpp.org/) at the [Institute for Research on Public Policy](http://www.irpp.org) (IRPP), a Montreal-based think tank. Our team developed a complimentary set of indicators for the work of [Oxford University’s COVID-19 Government Response Tracker](https://covidtracker.bsg.ox.ac.uk/). 
 
 The intended use of this database is to model Canadian policy responses over time and support new scholarship and policy evaluation. You can read more about how relative stringency has varied in our original [Policy Options article]( https://policyoptions.irpp.org/magazines/november-2020/in-the-canadian-federation-pandemic-response-is-hyper-local/), published on November 27th, 2020.
