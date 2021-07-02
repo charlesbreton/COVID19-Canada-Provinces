@@ -22,16 +22,16 @@ Comments and corrections are welcome.
 # Suggested Citation
 Breton, Charles, Paisley Sim, and Mohy-Dean Tabbara. 2020. _COVID-19 Canadian Provinces Measures Dataset_. Center of Excellence on the Canadian Federation. Available at [github.com/charlesbreton/COVID19-Canada-Provinces](https://github.com/charlesbreton/COVID19-Canada-Provinces) 
 
-# COVID-19 Re-opening Indicators
-Between March and September 2020, the [Centre of Excellence on the Canadian Federation](https://centre.irpp.org/) tracked Canadian policy responses to the COVID-19 pandemic with a specific focus on the timing of public health measures. The re-opening indicators dataset captures when provincial measures were taken or revoked. We based this data collection on [work done in the U.S.]( https://docs.google.com/spreadsheets/d/1zu9qEWI8PsOI_i8nI_S29HDGHlIp2lfVMsGxpQ5tvAQ/edit#gid=0) to allow cross-country comparisons. 
+<!-- # COVID-19 Re-opening Indicators
+Between March and September 2020, the [Centre of Excellence on the Canadian Federation](https://centre.irpp.org/) tracked Canadian policy responses to the COVID-19 pandemic with a specific focus on the timing of public health measures. 
 
-The data only tracks the date at which a policy became effective, not when it was announced. When a policy is enacted at midnight, the following day is indicated. We also only account for orders and official directives from provinces not suggestions. You can read more on this COVID provincial re-opening indicators in our original [Policy Options article](https://policyoptions.irpp.org/magazines/april-2020/how-the-provinces-compare-in-their-covid-19-responses/), published on April 22nd, 2020. 
+The data only tracks the date at which a policy became effective, not when it was announced. When a policy is enacted at midnight, the following day is indicated. We also only account for orders and official directives from provinces not suggestions. You can read more on this COVID provincial re-opening indicators in our original [Policy Options article](https://policyoptions.irpp.org/magazines/april-2020/how-the-provinces-compare-in-their-covid-19-responses/), published on April 22nd, 2020.  -->
 
 # Contributors
 Name | Organization | Email | Twitter
 --- | --- | --- | ---
 Charles Breton | Centre of Excellence on the Canadian Federation - IRPP | cbreton@irpp.org | @charlesbreton
 Paisley Sim | Centre of Excellence on the Canadian Federation - IRPP | psim@irpp.org | @paisleyvsim
-Mohy-Dean Tabbara | Institute for Research on Public Policy | mtabbara@irpp.org | |
+
 
 
